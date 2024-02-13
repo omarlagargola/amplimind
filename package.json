@@ -1,0 +1,16 @@
+{
+	"name": "tic_tac_toe-amplimind",
+	"description": "Code challenge for Amplimind.",
+	"license": "UNLICENSED",
+	"version": "1.0.0",
+	"author": "Omar Hernandez omarlagargola@gmail.com",
+  "scripts": {
+		"test": "node --experimental-vm-modules node_modules/.bin/jest"
+	},
+  "dependencies": {
+    "prompt-sync": "4.2.0"
+  },
+	"devDependencies": {
+		"jest": "^28.1.3"
+	}
+}
